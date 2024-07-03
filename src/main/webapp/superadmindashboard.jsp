@@ -47,7 +47,7 @@
 						id="pills-home-tab" data-toggle="pill" href="#pills-home"
 						role="tab" aria-controls="pills-home" aria-selected="true">New Vender</a>
 					</li>
-					<li class="nav-item"><a class="nav-link"
+					<li class="nav-item"><a class="nav-link "
 						id="pills-profile-tab" data-toggle="pill" href="#pills-profile"
 						role="tab" aria-controls="pills-profile" aria-selected="false">View Vender</a>
 					</li>
